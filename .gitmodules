@@ -10,3 +10,6 @@
 [submodule "mevn-jca"]
 	path = mevn-jca
 	url = https://github.com/sergiojunene/mevn-jca.git
+[submodule "portfolio-jonmircha"]
+	path = portfolio-jonmircha
+	url = https://github.com/sergiojunene/portfolio-maquetacion.git
