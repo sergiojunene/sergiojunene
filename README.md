@@ -45,15 +45,7 @@ const WhatICanDo = [
 
 ## Where do You find me?:
 
-<a href="https://twitter.com/sergiojunene" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sergiojunene" height="32" width="32" />
-</a>
-
-<a href="https://linkedin.com/in/sergiojunene" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sergiojunene" height="32" width="32" />
-</a>
-
-<a href="https://instagram.com/sergiojunene" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sergiojunene" height="32" width="32" />
-</a>
+* [Twitter](https://twitter.com/sergiojunene)
+* [LinkedIn](https://www.linkedin.com/in/sergiojunene/)
+* [Instagram](https://www.instagram.com/sergiojunene/)
 
