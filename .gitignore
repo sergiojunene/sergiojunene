@@ -1,0 +1,11 @@
+
+# FOLDERS
+node_modules/
+.vscode/
+.cache/
+
+
+# FILES
+.DS_Store
+
+
