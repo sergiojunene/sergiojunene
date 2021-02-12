@@ -1,15 +1,15 @@
-[submodule "ng-int-frontend"]
-	path = ng-int-frontend
-	url = https://github.com/sergiojunene/ng-int-frontend.git
-[submodule "ng-int-backend"]
-	path = ng-int-backend
-	url = https://github.com/sergiojunene/ng-int-backend.git
 [submodule "faq-page"]
-	path = faq-page
-	url = https://github.com/sergiojunene/faq-page.git
+	path = "faq-page"
+	url  = "https://github.com/sergiojunene/faq-page.git"
 [submodule "mevn-jca"]
-	path = mevn-jca
-	url = https://github.com/sergiojunene/mevn-jca.git
+	path = "mevn-jca"
+	url  = "https://github.com/sergiojunene/mevn-jca.git"
+[submodule "ng-int-backend"]
+	path = "ng-int-backend"
+	url  = "https://github.com/sergiojunene/ng-int-backend.git"
+[submodule "ng-int-frontend"]
+	path = "ng-int-frontend"
+	url  = "https://github.com/sergiojunene/ng-int-frontend.git"
 [submodule "portfolio-jonmircha"]
-	path = portfolio-jonmircha
-	url = https://github.com/sergiojunene/portfolio-maquetacion.git
+	path = "portfolio-jonmircha"
+	url  = "https://github.com/sergiojunene/portfolio-maquetacion.git"
