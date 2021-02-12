@@ -39,11 +39,11 @@ const WhatICanDo = [
 
 ## Inner projects:
 
-* [FAQ's FalconMasters]('faq-page')
-* [MEVN Juan Carlos Arcila]('mevn-jca')
-* [Angular Intermedio Backend]('ng-int-backend')
-* [Angular Intermedio Frontend]('ng-int-frontend')
-* [Taller Maquetación - CV Portfolio]('portfolio-jonmircha')
+* [FAQ's FalconMasters](faq-page)
+* [MEVN Juan Carlos Arcila](mevn-jca)
+* [Angular Intermedio Backend](ng-int-backend)
+* [Angular Intermedio Frontend](ng-int-frontend)
+* [Taller Maquetación - CV Portfolio](portfolio-jonmircha)
 
 ## Where do You find me?:
 
