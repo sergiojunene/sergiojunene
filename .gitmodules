@@ -1,0 +1,3 @@
+[submodule "ng-int-frontend"]
+    path = "ng-int-frontend" 
+    url  = "https://github.com/sergiojunene/ng-int-frontend.git"
