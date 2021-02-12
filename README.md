@@ -39,7 +39,7 @@ const WhatICanDo = [
 
 ## Inner projects:
 
-* [FAQ's FalconMasters](https://github.com/sergiojunene/faq-page.git)
+* [FAQ's FalconMasters](faq-page)
 * [MEVN Juan Carlos Arcila](mevn-jca)
 * [Angular Intermedio Backend](ng-int-backend)
 * [Angular Intermedio Frontend](ng-int-frontend)
