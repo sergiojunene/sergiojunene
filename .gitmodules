@@ -13,3 +13,6 @@
 [submodule "portfolio-jonmircha"]
 	path = "portfolio-jonmircha"
 	url  = "https://github.com/sergiojunene/portfolio-maquetacion.git"
+[submodule "svelte-platzi"]
+	path = "svelte-platzi"
+	url  = "https://github.com/sergiojunene/platzi-svelte.git"
