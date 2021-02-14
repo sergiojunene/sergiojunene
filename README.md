@@ -45,6 +45,7 @@ const WhatICanDo = [
 * [Angular Intermedio Backend](./ng-int-backend)
 * [Angular Intermedio Frontend](./ng-int-frontend)
 * [Taller Maquetación - CV Portfolio](./portfolio-jonmircha)
+* [Platzi Svelte - Oscar Barajas](./svelte-platzi)
 
 ## Where do You find me?:
 
