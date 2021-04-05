@@ -38,18 +38,7 @@ const WhatICanDo = [
 
 ----
 
-## Projects on this repository:
-
-* [FAQ's FalconMasters](./faq-page)
-* [MEVN Juan Carlos Arcila](./mevn-jca)
-* [Angular Intermedio Backend](./ng-int-backend)
-* [Angular Intermedio Frontend](./ng-int-frontend)
-* [Taller Maquetación - CV Portfolio](./portfolio-jonmircha)
-* [Platzi Svelte - Oscar Barajas](./svelte-platzi)
-
 ## Where do You find me?:
 
-* [Twitter](https://twitter.com/sergiojunene)
 * [LinkedIn](https://www.linkedin.com/in/sergiojunene/)
-* [Instagram](https://www.instagram.com/sergiojunene/)
 
