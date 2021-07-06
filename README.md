@@ -1,6 +1,6 @@
 # Hi, I'm Sergio Jurado "Nene" 👋🏽
 
-I'm a Web Developer and Frontend Engineer on Web Internet Techs. I love Photography of Dogs and People.
+I'm a Web Developer and Frontend Engineer on Web Internet Techs. I've got a Diary's Marmin.
 
 ```js
 const WhatICanDo = [ 
